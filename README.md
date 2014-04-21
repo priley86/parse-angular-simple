@@ -20,11 +20,13 @@ Installation
 * install mongodb
 * clone this repo
 
+Demo
+--------------
+http://urbanchamp-urbanchamp.rhcloud.com/
 
 
 License
 ----
-
 MIT
 
 
